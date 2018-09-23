@@ -1,0 +1,3 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule lol.jpg /var/www/html/img.php [NC]
